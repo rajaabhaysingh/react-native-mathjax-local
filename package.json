@@ -17,7 +17,5 @@
         "React",
         "Native"
     ],
-    "dependencies": {
-        "react-native-webview": "latest"
-    }
+    "dependencies": {}
 }
